@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Side Navigation Menu
 
-You can use the [editor on GitHub](https://github.com/pecosaints/Side-Navigation-Menu/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A functional side navigation menu for your website
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Introduction
 
-### Markdown
+This project was made intentionaly as a practice for creating a dynamic side navigation menu that could be accessed by any media.
+The website was developed with a top navigation system that disapears depending of the size of the user's screen, making the website responsive and cleaner in smaller devices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Parameters:
 
-```markdown
-Syntax highlighted code block
+<ul>
+  <li>Dynamic side navigation system</li>
+  <li>Responsiveness for any device</li>
+  <li>Top navigation appears only for a niche of screen sizes</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/80483432/123158983-d2882580-d442-11eb-9c8d-1f55f70cc407.png)
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/80483432/123159465-6d80ff80-d443-11eb-9033-4c8b49ed4de3.png)
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/80483432/123159533-81c4fc80-d443-11eb-9b4d-60e5ed98a739.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pecosaints/Side-Navigation-Menu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/80483432/123159572-8db0be80-d443-11eb-8531-04987273d779.png)
