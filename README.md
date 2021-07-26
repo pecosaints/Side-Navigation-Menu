@@ -5,7 +5,7 @@ A functional side navigation menu for your website
 # Introduction
 
 This project was made intentionaly as a practice for creating a dynamic side navigation menu that could be accessed by any media.
-The website was developed with a top navigation system that disapears based on the size of the user's screen, making the website responsive and cleaner in smaller devices.
+The website was developed with a top navigation system that disapears based on user's screen size, making the website responsive and cleaner for smaller devices.
 
 # Parameters:
 
